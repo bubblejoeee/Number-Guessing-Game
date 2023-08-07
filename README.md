@@ -1,2 +1,2 @@
 # Number-Guessing-Game
-A simple number guessing game created by ben
+A simple number guessing game in Python created by ben
